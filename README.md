@@ -6,6 +6,13 @@
 </p>
 
 
+### 🎓 Education
+
+**BSc in Applied Mathematics and Computing**  
+University of Vavuniya, Sri Lanka  
+📆 2022 – 2025  
+
+
 ### 🔧 Tech Stack
 
 - ⚙️ &nbsp;Languages: `JavaScript`, `PHP`, `Python`, `TypeScript`, `Assembly`, `C++`, `Java`, `C`
