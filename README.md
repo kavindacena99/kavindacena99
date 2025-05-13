@@ -18,7 +18,7 @@ University of Vavuniya, Sri Lanka
 - ⚙️ &nbsp;Languages: `JavaScript`, `PHP`, `Python`, `TypeScript`, `Assembly`, `C++`, `Java`, `C`
 - 🧠 &nbsp;Backend: `Node.js`, `Express`, `Laravel`, `Flask`
 - 🧰 &nbsp;Databases: `Mysql`, `MongoDB`
-- 🎨 &nbsp;Frontend: `React.js`, `React Native`, `Tailwind CSS`, `Blade`
+- 🎨 &nbsp;Frontend: `React.js`, `React Native`, `Tailwind CSS`, `Blade`, `Bootstrap`
 - 🧪 &nbsp;Tools: `Git`, `Postman`, `Docker`, `VSCode`
 
 
