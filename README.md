@@ -24,7 +24,7 @@ University of Vavuniya, Sri Lanka
 
 ### 🚀 Projects
 
-- 🛒 [DoughGo](https://github.com/yourusername/DoughGo) – Bakery delivery system with MERN + React Native
+- 🛒 [DoughGo](https://github.com/kavindacena99/DoughGo) – Bakery delivery system with MERN + React Native
 - 🌐 [Tenantrix](https://github.com/kavindacena99/Tenantrix) – Laravel SaaS Multi-Tenant App
 - 👟 [The Shoe Box](https://github.com/kavindacena99/The-Shoe-Box) - Laravel Online Shoes selling marketplace
 - 📊 [Land Price Predictor](https://github.com/kavindacena99/land-price-predictor) – Predict Sri Lankan land prices with ML
