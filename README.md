@@ -21,6 +21,12 @@ University of Vavuniya, Sri Lanka
 - 🎨 &nbsp;Frontend: `React.js`, `React Native`, `Tailwind CSS`, `Blade`, `Bootstrap`
 - 🧪 &nbsp;Tools: `Git`, `Postman`, `Docker`, `VSCode`
 
+  
+### 📊 GitHub Language Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindacena99&layout=compact&langs_count=5&theme=tokyonight)
+
+
 
 ### 🚀 Projects
 
