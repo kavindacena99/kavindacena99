@@ -15,8 +15,8 @@ University of Vavuniya, Sri Lanka
 
 ### 🔧 Tech Stack
 
-- ⚙️ &nbsp;Languages: `JavaScript`, `PHP`, `Python`, `TypeScript`, `Assembly`, `C++`, `Java`, `C`
-- 🧠 &nbsp;Backend: `Node.js`, `Express`, `Laravel`, `Flask`
+- ⚙️ &nbsp;Languages: `JavaScript`, `PHP`, `Python`, `TypeScript`, `Assembly`, `C++`, `Java`, `C`, `Go`
+- 🧠 &nbsp;Backend: `Node.js`, `Express`, `Laravel`, `Flask`, `Gin`
 - 🧰 &nbsp;Databases: `Mysql`, `MongoDB`
 - 🎨 &nbsp;Frontend: `React.js`, `React Native`, `Tailwind CSS`, `Blade`, `Bootstrap`
 - 🧪 &nbsp;Tools: `Git`, `Postman`, `Docker`, `VSCode`
@@ -33,7 +33,7 @@ University of Vavuniya, Sri Lanka
 - 🛒 [DoughGo](https://github.com/kavindacena99/DoughGo) – Bakery delivery system with MERN + React Native
 - 🌐 [Tenantrix](https://github.com/kavindacena99/Tenantrix) – Laravel SaaS Multi-Tenant App
 - 👟 [The Shoe Box](https://github.com/kavindacena99/The-Shoe-Box) - Laravel Online Shoes selling marketplace
-- 📊 [Land Price Predictor](https://github.com/kavindacena99/land-price-predictor) – Predict Sri Lankan land prices with ML
+- 📊 [Land Price Predictor](https://github.com/kavindacena99/Sri-Lankan-Land-Price-Predictor) – Predict Sri Lankan land prices with ML
 
 
 ### 📈 GitHub Stats
