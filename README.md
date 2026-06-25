@@ -181,11 +181,11 @@ I'm currently working as an **Associate AI Engineer at Idasara Digital Pvt Ltd**
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kavindacena99&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kavindacena99&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
