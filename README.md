@@ -87,6 +87,20 @@ I'm currently working as an **Associate AI Engineer at Idasara Digital Pvt Ltd**
 
 ---
 
+## 🤖 AI-Powered Development
+
+I use AI coding tools as part of my software engineering workflow — not as a replacement for engineering judgment, but as a way to move faster, explore solutions, and spend more time on architecture, quality, and problem solving.
+
+- **Claude Code** — My professional AI coding assistant at Idasara Digital, helping with codebase exploration, implementation, debugging, refactoring, testing, and development workflows.
+- **OpenAI Codex** — My personal AI coding assistant for building projects, experimenting with ideas, reviewing implementations, and accelerating software engineering tasks.
+- **ChatGPT** — Used for technical research, architecture discussions, learning, problem solving, documentation, and planning.
+
+> **My approach:** AI writes faster; engineers still decide what should be built, why it should be built, and whether it is correct.
+
+---
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
