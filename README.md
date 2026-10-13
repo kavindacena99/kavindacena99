@@ -89,12 +89,15 @@ I'm currently working as an **Associate AI Engineer at Idasara Digital Pvt Ltd**
 
 ## 🤖 AI-Powered Development
 
-I use AI coding tools to accelerate software engineering while keeping architecture, decisions, and validation in my hands.
+I use AI coding tools to work faster while staying responsible for engineering decisions and code quality.
 
-| Tool | How I use it |
-|---|---|
-| <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/> | Professional AI coding assistant for development, debugging, refactoring, and codebase exploration. |
-| <img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex"/> | Personal AI coding assistant for building, testing, reviewing, and experimenting. |
+**[Claude Code](https://www.anthropic.com/claude-code)**  
+![Claude Code badge](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)  
+Professional workflow: codebase exploration, implementation, debugging, and refactoring.
+
+**[OpenAI Codex](https://openai.com/codex/)**  
+![OpenAI Codex badge](https://img.shields.io/badge/OpenAI_Codex-000000?style=flat-square&logo=openai&logoColor=white)  
+Personal projects: building, testing, reviewing, and experimenting.
 
 ---
 
