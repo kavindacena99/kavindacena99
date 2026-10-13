@@ -93,8 +93,8 @@ I use AI coding tools to accelerate software engineering while keeping architect
 
 | Tool | How I use it |
 |---|---|
-| <img src="https://cdn.simpleicons.org/anthropic" width="22"/> **Claude Code** | Professional AI coding assistant for development, debugging, refactoring, and codebase exploration. |
-| <img src="https://cdn.simpleicons.org/openai" width="22"/> **OpenAI Codex** | Personal AI coding assistant for building, testing, reviewing, and experimenting. |
+| <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/> | Professional AI coding assistant for development, debugging, refactoring, and codebase exploration. |
+| <img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex"/> | Personal AI coding assistant for building, testing, reviewing, and experimenting. |
 
 ---
 
