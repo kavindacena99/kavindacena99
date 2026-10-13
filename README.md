@@ -199,14 +199,12 @@ Personal projects: building, testing, reviewing, and experimenting.
 
 <div align="center">
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavindacena99&theme=tokyo-night&hide_border=true&area=true&days=31" alt="Kavinda's GitHub activity graph for the last 31 days" width="100%" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavindacena99&theme=tokyonight" alt="Kavinda's GitHub contribution activity summary" width="100%" />
 
 </div>
 
 ---
-
+ 
 ## 🤝 Connect With Me
 
 <div align="center">
